@@ -1,8 +1,6 @@
 
----
- Report Content 
+ Report Content :
 
-```text
 Campus Lifestyle and Academic Performance Analysis Report
 
 This report summarizes the findings obtained from Exploratory Data Analysis performed on student lifestyle and academic performance data.
