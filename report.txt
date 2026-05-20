@@ -1,0 +1,23 @@
+
+---
+
+# 11. Report Content (Paste inside report.txt)
+
+```text
+Campus Lifestyle and Academic Performance Analysis Report
+
+This report summarizes the findings obtained from Exploratory Data Analysis performed on student lifestyle and academic performance data.
+
+Key observations:
+
+1. Students studying for longer durations generally achieved higher exam scores.
+
+2. Students maintaining higher attendance percentages showed significantly improved academic outcomes.
+
+3. Excessive social media usage negatively affected student performance.
+
+4. Students maintaining balanced sleep schedules performed better academically.
+
+5. Participation in extracurricular activities had a small positive impact on performance.
+
+The project demonstrates the importance of data analysis in identifying educational trends and understanding student behavior.
