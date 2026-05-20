@@ -1,7 +1,6 @@
 
 ---
-
-# 11. Report Content (Paste inside report.txt)
+ Report Content 
 
 ```text
 Campus Lifestyle and Academic Performance Analysis Report
